@@ -4,3 +4,17 @@
 	<stdio.h>
 	<stdlib.h>
 
+1603288842 source:c:\users\toby\desktop\nueva carpeta\suarez.tobiaspplabi\parciallabi\funciones.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1603288842 c:\users\toby\desktop\nueva carpeta\suarez.tobiaspplabi\parciallabi\funciones.h
+
+1603288846 source:c:\users\toby\desktop\nueva carpeta\suarez.tobiaspplabi\parciallabi\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
